@@ -14,6 +14,6 @@ An Intro Screen UI with react native..
 
 ## Contact
 
-Shevon Soyza - [linkedin](https://www.linkedin.com/in/mostafa-sultan/)
+Mostafa Sultan - [linkedin](https://www.linkedin.com/in/mostafa-sultan/)
 
  
