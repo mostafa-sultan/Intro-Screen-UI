@@ -17,6 +17,7 @@ export default App = () => {
         <TouchableOpacity style={[styles.button, styles.google]}>
           <Text style={styles.buttonText}>Login with google</Text>
         </TouchableOpacity>
+        
       </View>
 
     </View>
