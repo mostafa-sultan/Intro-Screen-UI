@@ -12,7 +12,7 @@ An Intro Screen UI with react native....
 * JavaScript
 * React Native
 
-## Contact
+## Contact Link
 
 Mostafa Sultan - [linkedin](https://www.linkedin.com/in/mostafa-sultan/)
 
