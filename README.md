@@ -1,6 +1,6 @@
 # Intro-Screen-UI 
 
-An Intro Screen UI with react native..
+An Intro Screen UI with react native....
 
  
 
